@@ -1,0 +1,1 @@
+export const base_url = 'https://blog-app-seven-xi.vercel.app'
